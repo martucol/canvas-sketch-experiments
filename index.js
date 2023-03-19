@@ -46,7 +46,7 @@ const sketch = ({ context }) => {
   });
 
   // WebGL background color
-  renderer.setClearColor("#DDAA33", 1);
+  renderer.setClearColor("#aA9Af3", 1);
 
   const scene = new THREE.Scene();
 
